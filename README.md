@@ -5,6 +5,8 @@ logistics cost distributions across regional networks.
 
 ### 🚀 Project Highlights
 
+![PowerBI-Dashboard](Dashboard.png)
+
 - **Data Cleaning & Transformation**: Ingested and transformed multi-category inventory datasets using **Power Query**, enforcing consistent schema structures to analyze **640k+ total units sold** across multi-year cycles (2020–2024).
 - **KPI Dashboards & Benchmarking**: Designed a real-time monitoring Dashboard for core supply chain metrics:
   - **Inventory Turnover Ratio**: (ITR) It came out to 23.47 and a **Days Sales of Inventory (DSI)** of 15.56 days.
